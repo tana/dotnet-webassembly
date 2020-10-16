@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
     <Title>WebAssembly for .NET</Title>
 	<AssemblyTitle>WebAssembly for .NET Core 3.1</AssemblyTitle>
     <Authors>Ryan Lamansky</Authors>
