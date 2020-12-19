@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net471</TargetFramework>
     <Title>WebAssembly for .NET</Title>
-	<AssemblyTitle>WebAssembly for .NET Core 3.1</AssemblyTitle>
+	<AssemblyTitle>WebAssembly for .NET Framework 4.7.1</AssemblyTitle>
     <Authors>Ryan Lamansky</Authors>
     <Description>Create, read, modify, write and (incomplete) execute WebAssembly (WASM) files.</Description>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
